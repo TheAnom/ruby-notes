@@ -1,0 +1,2 @@
+# 1 Tipo de dato Symbol
+# Ver mas sobre los operadores
