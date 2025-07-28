@@ -116,3 +116,4 @@ case
     else
         puts "El número es mayor que 20"
 end 
+ 
