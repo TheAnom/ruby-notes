@@ -11,7 +11,7 @@ print "Segunda línea \n" # (Nota: el salto de línea debe ser explícito con \n
 # gets: lee una línea de entrada del usuario
 puts "Por favor, ingresa tu nombre:"
 nombre = gets
-puts "Hola, #{nombre}!"
+puts "Hola, #{nombre}!              "
 
 # gets.chomp: lee una línea y elimina el salto de línea al final
 puts "Por favor, ingresa tu nombre sin salto de línea:"
